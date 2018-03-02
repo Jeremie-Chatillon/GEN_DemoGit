@@ -5,6 +5,6 @@ public class MatrixXorOperator extends MatrixOperator {
 
 // it's false
     public boolean operate(final boolean x, final boolean y) {
-        return x z y;
+        return x - y;
     }
 }
